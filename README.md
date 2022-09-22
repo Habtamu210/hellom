@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
->this is the first simple Microverse project .
+>This is the first simple Microverse project .
 
 
 ## Built With
